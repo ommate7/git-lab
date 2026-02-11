@@ -1,3 +1,6 @@
 Hello
 welcome to Git
 welcome to my world hehehe
+
+
+this line is added to feature 1
